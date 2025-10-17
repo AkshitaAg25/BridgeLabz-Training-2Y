@@ -23,6 +23,5 @@ public class SmartHome {
         else if (n.equals("Voice")) {
         	System.out.println(voice.run(false, false, true));
         }
-		inp.close();
 	}
 }
